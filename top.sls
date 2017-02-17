@@ -1,4 +1,3 @@
 base:
   "*":
-    - webserver
-    - epel
+    - roles.common
